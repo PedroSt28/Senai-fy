@@ -1,0 +1,43 @@
+.main{
+
+display: flex;
+
+}
+
+
+.rolagem{
+
+background-color: rgb(203, 44, 44);
+height: 100%;
+width: 18vw;
+}
+
+.titulo1{
+
+color: greenyellow;
+margin:20px 75px 20px 75px ;
+
+}
+
+.principal{
+
+
+background-color: rgb(34, 34, 34);
+height: 100%;
+width: 90vw;
+}
+
+.login{
+
+background-color: aquamarine;
+height:80px ;
+
+}
+
+.button{
+
+height: 38px;
+width: 631;
+align-items: center;
+
+}
